@@ -1,3 +1,4 @@
+<?xml version="1.0" ?>
 <project name="FirstProject" basedir="." default="run">
 
     <!-- Property names going to be used in the tasks below. -->
